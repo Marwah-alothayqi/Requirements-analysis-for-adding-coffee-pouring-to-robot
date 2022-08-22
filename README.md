@@ -11,4 +11,5 @@
 |iot            |send data come from sensors to database                                                   |the speed of internet in device that has the webpage|
 |ai             |how the robot draw and save its map in ros os                                             |How long will the robot keep a map of a previous place it visited? 
 |mecanic        |balance when robot doing coffee pouring                                                   |The type of material that covers the robot's hand  |
-|electonics     |control the pouring in specific time                                                      |-     |                                                  |electonics     |pouring the coffee quantity the occasion with the cup                                     |is made of heat-resistant material to avoid accident|
+|electonics     |control the pouring in specific time                                                      |-                                                  |        
+|electonics     |pouring the coffee quantity the occasion with the cup                                     |is made of heat-resistant material to avoid accident|
